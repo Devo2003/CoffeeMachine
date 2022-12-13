@@ -26,6 +26,7 @@ int main()
     {
         amount_of_orders.push_back(num);
     }
+    file_name.close();
 
 
 
